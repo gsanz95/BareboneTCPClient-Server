@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\giancarlo\source\repos\netclient\netclient\source.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  NetClient.vcxproj -> C:\Users\Giancarlo\source\repos\NetClient\Debug\NetClient.exe
